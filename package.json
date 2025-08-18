@@ -1,0 +1,21 @@
+{
+  "name": "meu-blog-de-videos",
+  "version": "1.0.0",
+  "description": "Um blog simples de vídeos com posts do YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "blog",
+    "youtube",
+    "vercel",
+    "node",
+    "express"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
