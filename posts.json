@@ -7,6 +7,13 @@
         "dataPublicacao": "2025-08-15"
     },
     {
+        "id": "mz",
+        "titulo": "Tutorial Completo de JavaScript para Iniciantes",
+        "youtubeId": "https://youtu.be/v8D7YxqiV6c?si=ZtofuHfQpyQGCS83",
+        "descricao": "Neste vídeo, você aprenderá os fundamentos do JavaScript do zero.",
+        "dataPublicacao": "2025-08-15"
+    },
+    {
         "id": "2",
         "titulo": "Receita Fácil de Bolo de Chocolate",
         "youtubeId": "watch?v=outroVideoAbc",
