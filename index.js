@@ -58,7 +58,7 @@ app.get('/post/:id', (req, res) => {
                 </main>
 
                 <footer>
-                    <p>&copy; 2025 Meu Blog. Todos os direitos reservados.</p>
+                    <p>&copy; 2025 VdRecomendados. Todos os direitos reservados.</p>
                 </footer>
             </body>
             </html>
