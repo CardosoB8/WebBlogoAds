@@ -35,6 +35,7 @@ app.get('/post/:id', (req, res) => {
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 <title>${post.titulo}</title>
+                <script src="https://fpyf8.com/88/tag.min.js" data-zone="165891" async data-cfasync="false"></script>
                 <link rel="stylesheet" href="/style.css"> </head>
             <body>
                 <header>
